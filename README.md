@@ -4,6 +4,11 @@ This project implements a basic Queue data structure in JavaScript and uses the 
 
 ---
 
+## GitHub repository link
+https://github.com/tiffany9056/jest-queue-project.git
+
+---
+
 ## Screenshots / Logs
 <img src="./screenshot/Screenshot_of_coverage_after_Task1.png" height="300"/>
 <img src="./screenshot/Screenshot_of_coverage_after_Task2.png" height="300"/>
